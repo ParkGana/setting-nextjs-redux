@@ -1,1 +1,3 @@
-export interface ExampleType {}
+export interface ExampleType {
+    value: number
+}
