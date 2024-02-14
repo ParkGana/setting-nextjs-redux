@@ -27,3 +27,9 @@ npm install -D prettier eslint-plugin-prettier eslint-config-prettier
 npm install -D @typescript-eslint/parser @typescript-eslint/eslint-plugin  
 npm install -D styled-components@5.3.5 styled-reset  
 npm install -D @types/styled-components
+
+<br />
+
+##### [ redux 기초 설정 ]
+
+npm install react-redux @reduxjs/toolkit redux-persist
