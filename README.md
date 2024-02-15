@@ -32,4 +32,4 @@ npm install -D @types/styled-components
 
 ##### [ redux 기초 설정 ]
 
-npm install react-redux @reduxjs/toolkit redux-persist
+npm install react-redux @reduxjs/toolkit
